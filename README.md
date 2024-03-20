@@ -6,7 +6,7 @@
     </picture>
 </h1>
 
-# Dependabot Demo Repository
+# Dependabot_Demo Repository
 
 This repo contains some projects with outdated dependencies. Fork it to try out
 Dependabot :dependabot:!
